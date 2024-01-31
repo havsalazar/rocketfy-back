@@ -1,0 +1,1003 @@
+[
+    {
+      "humidity": 56.8,
+      "temperature": 66.2,
+      "timestamp": "2023-11-23T12:26:00"
+    },
+    {
+      "humidity": 66.4,
+      "temperature": 57.9,
+      "timestamp": "2023-07-14T11:53:00"
+    },
+    {
+      "humidity": 68.1,
+      "temperature": 56.6,
+      "timestamp": "2023-09-08T01:12:00"
+    },
+    {
+      "humidity": 55.9,
+      "temperature": 63.7,
+      "timestamp": "2023-05-25T03:20:00"
+    },
+    {
+      "humidity": 58.9,
+      "temperature": 67.2,
+      "timestamp": "2023-04-05T03:56:00"
+    },
+    {
+      "humidity": 59.7,
+      "temperature": 57.3,
+      "timestamp": "2023-08-06T10:18:00"
+    },
+    {
+      "humidity": 69.3,
+      "temperature": 61.1,
+      "timestamp": "2023-09-29T07:46:00"
+    },
+    {
+      "humidity": 64.5,
+      "temperature": 61.3,
+      "timestamp": "2023-09-07T05:05:00"
+    },
+    {
+      "humidity": 56.8,
+      "temperature": 61.6,
+      "timestamp": "2023-01-22T11:06:00"
+    },
+    {
+      "humidity": 64.5,
+      "temperature": 58.4,
+      "timestamp": "2023-03-15T04:38:00"
+    },
+    {
+      "humidity": 65.3,
+      "temperature": 63.2,
+      "timestamp": "2023-11-09T01:14:00"
+    },
+    {
+      "humidity": 69,
+      "temperature": 62.9,
+      "timestamp": "2023-11-15T04:30:00"
+    },
+    {
+      "humidity": 56.6,
+      "temperature": 67.4,
+      "timestamp": "2023-07-04T08:43:00"
+    },
+    {
+      "humidity": 66.9,
+      "temperature": 65.1,
+      "timestamp": "2023-05-01T10:55:00"
+    },
+    {
+      "humidity": 67.4,
+      "temperature": 69.3,
+      "timestamp": "2023-07-16T09:45:00"
+    },
+    {
+      "humidity": 70,
+      "temperature": 69.9,
+      "timestamp": "2023-06-13T06:09:00"
+    },
+    {
+      "humidity": 66.2,
+      "temperature": 57.8,
+      "timestamp": "2023-12-03T01:37:00"
+    },
+    {
+      "humidity": 57,
+      "temperature": 64.8,
+      "timestamp": "2023-10-23T03:53:00"
+    },
+    {
+      "humidity": 62.1,
+      "temperature": 62.6,
+      "timestamp": "2023-05-05T02:49:00"
+    },
+    {
+      "humidity": 69.3,
+      "temperature": 65.6,
+      "timestamp": "2023-07-17T06:19:00"
+    },
+    {
+      "humidity": 69.9,
+      "temperature": 61.3,
+      "timestamp": "2023-12-23T11:03:00"
+    },
+    {
+      "humidity": 62.1,
+      "temperature": 60,
+      "timestamp": "2023-11-21T07:11:00"
+    },
+    {
+      "humidity": 60,
+      "temperature": 59.8,
+      "timestamp": "2023-08-29T02:19:00"
+    },
+    {
+      "humidity": 57.5,
+      "temperature": 68,
+      "timestamp": "2023-10-07T11:15:00"
+    },
+    {
+      "humidity": 57.2,
+      "temperature": 62.9,
+      "timestamp": "2024-01-22T11:15:00"
+    },
+    {
+      "humidity": 69.2,
+      "temperature": 60.1,
+      "timestamp": "2023-11-18T01:59:00"
+    },
+    {
+      "humidity": 69.4,
+      "temperature": 63.9,
+      "timestamp": "2023-09-14T07:11:00"
+    },
+    {
+      "humidity": 62.1,
+      "temperature": 59.4,
+      "timestamp": "2024-01-25T03:25:00"
+    },
+    {
+      "humidity": 68.9,
+      "temperature": 62.4,
+      "timestamp": "2023-11-01T09:40:00"
+    },
+    {
+      "humidity": 56.4,
+      "temperature": 55,
+      "timestamp": "2023-10-12T11:43:00"
+    },
+    {
+      "humidity": 64.5,
+      "temperature": 63.3,
+      "timestamp": "2023-01-31T08:39:00"
+    },
+    {
+      "humidity": 61.1,
+      "temperature": 65.2,
+      "timestamp": "2024-01-22T08:23:00"
+    },
+    {
+      "humidity": 65.4,
+      "temperature": 61.3,
+      "timestamp": "2023-11-14T07:02:00"
+    },
+    {
+      "humidity": 69.9,
+      "temperature": 65.4,
+      "timestamp": "2023-01-22T04:27:00"
+    },
+    {
+      "humidity": 57.8,
+      "temperature": 59.5,
+      "timestamp": "2023-02-26T11:13:00"
+    },
+    {
+      "humidity": 68.9,
+      "temperature": 61.9,
+      "timestamp": "2023-12-10T06:10:00"
+    },
+    {
+      "humidity": 62.3,
+      "temperature": 67.8,
+      "timestamp": "2023-06-22T11:08:00"
+    },
+    {
+      "humidity": 67.7,
+      "temperature": 61.9,
+      "timestamp": "2023-12-02T03:25:00"
+    },
+    {
+      "humidity": 61.8,
+      "temperature": 67,
+      "timestamp": "2024-01-25T11:03:00"
+    },
+    {
+      "humidity": 61.8,
+      "temperature": 67.7,
+      "timestamp": "2023-10-15T02:00:00"
+    },
+    {
+      "humidity": 60.6,
+      "temperature": 58.4,
+      "timestamp": "2023-05-01T11:15:00"
+    },
+    {
+      "humidity": 67.8,
+      "temperature": 70,
+      "timestamp": "2023-08-17T06:55:00"
+    },
+    {
+      "humidity": 58.4,
+      "temperature": 60.9,
+      "timestamp": "2023-10-27T01:43:00"
+    },
+    {
+      "humidity": 67.4,
+      "temperature": 60.1,
+      "timestamp": "2023-05-11T12:28:00"
+    },
+    {
+      "humidity": 65.6,
+      "temperature": 69,
+      "timestamp": "2023-10-10T10:31:00"
+    },
+    {
+      "humidity": 57.2,
+      "temperature": 62.1,
+      "timestamp": "2023-12-08T10:30:00"
+    },
+    {
+      "humidity": 61.8,
+      "temperature": 59.2,
+      "timestamp": "2024-01-07T03:12:00"
+    },
+    {
+      "humidity": 55.6,
+      "temperature": 61.5,
+      "timestamp": "2024-01-12T10:50:00"
+    },
+    {
+      "humidity": 63,
+      "temperature": 60.5,
+      "timestamp": "2023-03-18T09:18:00"
+    },
+    {
+      "humidity": 65.8,
+      "temperature": 55.4,
+      "timestamp": "2023-07-03T02:49:00"
+    },
+    {
+      "humidity": 68.4,
+      "temperature": 64,
+      "timestamp": "2023-01-25T12:19:00"
+    },
+    {
+      "humidity": 63,
+      "temperature": 58.4,
+      "timestamp": "2023-05-03T03:13:00"
+    },
+    {
+      "humidity": 63.9,
+      "temperature": 63.2,
+      "timestamp": "2024-01-28T12:55:00"
+    },
+    {
+      "humidity": 60,
+      "temperature": 60.5,
+      "timestamp": "2023-04-27T03:56:00"
+    },
+    {
+      "humidity": 58,
+      "temperature": 65.9,
+      "timestamp": "2024-01-01T11:58:00"
+    },
+    {
+      "humidity": 66.2,
+      "temperature": 61.1,
+      "timestamp": "2023-03-25T03:09:00"
+    },
+    {
+      "humidity": 58.2,
+      "temperature": 66.1,
+      "timestamp": "2023-11-01T07:35:00"
+    },
+    {
+      "humidity": 61.3,
+      "temperature": 59.2,
+      "timestamp": "2023-03-30T11:20:00"
+    },
+    {
+      "humidity": 65.1,
+      "temperature": 67.3,
+      "timestamp": "2023-10-19T06:34:00"
+    },
+    {
+      "humidity": 70,
+      "temperature": 66.5,
+      "timestamp": "2024-01-25T06:32:00"
+    },
+    {
+      "humidity": 69.9,
+      "temperature": 70,
+      "timestamp": "2023-02-12T01:04:00"
+    },
+    {
+      "humidity": 56.2,
+      "temperature": 55,
+      "timestamp": "2023-02-11T08:47:00"
+    },
+    {
+      "humidity": 68.1,
+      "temperature": 59,
+      "timestamp": "2023-06-30T11:39:00"
+    },
+    {
+      "humidity": 68.6,
+      "temperature": 69.5,
+      "timestamp": "2023-03-06T02:30:00"
+    },
+    {
+      "humidity": 68.4,
+      "temperature": 69.3,
+      "timestamp": "2023-10-07T06:39:00"
+    },
+    {
+      "humidity": 64.2,
+      "temperature": 64.3,
+      "timestamp": "2024-01-25T08:08:00"
+    },
+    {
+      "humidity": 57.3,
+      "temperature": 60.4,
+      "timestamp": "2023-11-03T09:05:00"
+    },
+    {
+      "humidity": 56.2,
+      "temperature": 69.3,
+      "timestamp": "2023-04-14T02:47:00"
+    },
+    {
+      "humidity": 61.1,
+      "temperature": 68.6,
+      "timestamp": "2023-02-02T11:58:00"
+    },
+    {
+      "humidity": 65.4,
+      "temperature": 65.4,
+      "timestamp": "2023-01-08T07:49:00"
+    },
+    {
+      "humidity": 56.9,
+      "temperature": 59.3,
+      "timestamp": "2024-01-23T09:42:00"
+    },
+    {
+      "humidity": 56.2,
+      "temperature": 57.4,
+      "timestamp": "2023-08-12T05:37:00"
+    },
+    {
+      "humidity": 62.3,
+      "temperature": 58.9,
+      "timestamp": "2023-01-02T05:49:00"
+    },
+    {
+      "humidity": 64.7,
+      "temperature": 59.4,
+      "timestamp": "2023-07-07T08:32:00"
+    },
+    {
+      "humidity": 59,
+      "temperature": 63.6,
+      "timestamp": "2023-03-09T06:07:00"
+    },
+    {
+      "humidity": 65.3,
+      "temperature": 59.4,
+      "timestamp": "2023-08-21T09:54:00"
+    },
+    {
+      "humidity": 61.7,
+      "temperature": 65.8,
+      "timestamp": "2023-10-04T02:07:00"
+    },
+    {
+      "humidity": 60.2,
+      "temperature": 65.6,
+      "timestamp": "2023-06-27T02:55:00"
+    },
+    {
+      "humidity": 68.4,
+      "temperature": 60.9,
+      "timestamp": "2023-11-19T06:18:00"
+    },
+    {
+      "humidity": 56.7,
+      "temperature": 68.2,
+      "timestamp": "2023-06-07T12:48:00"
+    },
+    {
+      "humidity": 56.8,
+      "temperature": 55.9,
+      "timestamp": "2023-10-31T04:37:00"
+    },
+    {
+      "humidity": 59.4,
+      "temperature": 59.9,
+      "timestamp": "2023-11-30T11:36:00"
+    },
+    {
+      "humidity": 61.5,
+      "temperature": 58.8,
+      "timestamp": "2023-07-13T12:59:00"
+    },
+    {
+      "humidity": 58.5,
+      "temperature": 69.7,
+      "timestamp": "2023-02-17T08:03:00"
+    },
+    {
+      "humidity": 60.5,
+      "temperature": 64.3,
+      "timestamp": "2023-11-03T02:39:00"
+    },
+    {
+      "humidity": 65,
+      "temperature": 60.1,
+      "timestamp": "2023-10-15T02:25:00"
+    },
+    {
+      "humidity": 68.5,
+      "temperature": 56.9,
+      "timestamp": "2023-06-17T04:58:00"
+    },
+    {
+      "humidity": 69.7,
+      "temperature": 59,
+      "timestamp": "2023-05-08T01:23:00"
+    },
+    {
+      "humidity": 57.2,
+      "temperature": 65.8,
+      "timestamp": "2023-07-11T12:34:00"
+    },
+    {
+      "humidity": 58.4,
+      "temperature": 66.3,
+      "timestamp": "2023-06-30T10:24:00"
+    },
+    {
+      "humidity": 57.7,
+      "temperature": 60,
+      "timestamp": "2023-06-28T11:51:00"
+    },
+    {
+      "humidity": 65.4,
+      "temperature": 66.8,
+      "timestamp": "2024-01-17T11:22:00"
+    },
+    {
+      "humidity": 57.5,
+      "temperature": 60.2,
+      "timestamp": "2023-05-01T04:03:00"
+    },
+    {
+      "humidity": 61.3,
+      "temperature": 64.5,
+      "timestamp": "2023-10-05T03:21:00"
+    },
+    {
+      "humidity": 56.7,
+      "temperature": 64.4,
+      "timestamp": "2023-01-13T04:03:00"
+    },
+    {
+      "humidity": 62.2,
+      "temperature": 56.7,
+      "timestamp": "2023-02-27T09:43:00"
+    },
+    {
+      "humidity": 57.6,
+      "temperature": 67.9,
+      "timestamp": "2023-06-17T10:44:00"
+    },
+    {
+      "humidity": 61.5,
+      "temperature": 63,
+      "timestamp": "2023-08-15T11:19:00"
+    },
+    {
+      "humidity": 58.2,
+      "temperature": 68.2,
+      "timestamp": "2023-01-21T07:37:00"
+    },
+    {
+      "humidity": 67.7,
+      "temperature": 64.8,
+      "timestamp": "2023-09-05T02:24:00"
+    },
+    
+        {
+          "humidity": 57.5,
+          "temperature": 58.9,
+          "timestamp": "2024-01-05T11:35:00"
+        },
+        {
+          "humidity": 59.2,
+          "temperature": 65.4,
+          "timestamp": "2023-09-01T02:18:00"
+        },
+        {
+          "humidity": 60.4,
+          "temperature": 68.1,
+          "timestamp": "2023-11-08T11:15:00"
+        },
+        {
+          "humidity": 57.8,
+          "temperature": 68.9,
+          "timestamp": "2023-07-05T01:22:00"
+        },
+        {
+          "humidity": 67.5,
+          "temperature": 66.2,
+          "timestamp": "2023-04-11T01:33:00"
+        },
+        {
+          "humidity": 58.1,
+          "temperature": 67.3,
+          "timestamp": "2023-07-31T12:46:00"
+        },
+        {
+          "humidity": 59.1,
+          "temperature": 58.4,
+          "timestamp": "2023-07-20T01:43:00"
+        },
+        {
+          "humidity": 65.8,
+          "temperature": 69.3,
+          "timestamp": "2023-11-03T05:19:00"
+        },
+        {
+          "humidity": 68,
+          "temperature": 65.4,
+          "timestamp": "2023-11-08T02:47:00"
+        },
+        {
+          "humidity": 59.5,
+          "temperature": 57.2,
+          "timestamp": "2023-08-31T12:40:00"
+        },
+        {
+          "humidity": 63.7,
+          "temperature": 56.8,
+          "timestamp": "2023-02-05T08:18:00"
+        },
+        {
+          "humidity": 64.8,
+          "temperature": 62.5,
+          "timestamp": "2023-11-01T02:17:00"
+        },
+        {
+          "humidity": 65.1,
+          "temperature": 59.2,
+          "timestamp": "2023-07-28T12:30:00"
+        },
+        {
+          "humidity": 65.8,
+          "temperature": 61,
+          "timestamp": "2023-03-30T12:02:00"
+        },
+        {
+          "humidity": 61.4,
+          "temperature": 56.1,
+          "timestamp": "2023-08-23T08:26:00"
+        },
+        {
+          "humidity": 57,
+          "temperature": 62.1,
+          "timestamp": "2024-01-09T01:24:00"
+        },
+        {
+          "humidity": 56.7,
+          "temperature": 61.4,
+          "timestamp": "2023-08-07T03:52:00"
+        },
+        {
+          "humidity": 69.1,
+          "temperature": 55,
+          "timestamp": "2023-11-17T03:55:00"
+        },
+        {
+          "humidity": 64.8,
+          "temperature": 65.7,
+          "timestamp": "2023-11-07T09:31:00"
+        },
+        {
+          "humidity": 61.7,
+          "temperature": 56.3,
+          "timestamp": "2023-01-02T06:49:00"
+        },
+        {
+          "humidity": 61.2,
+          "temperature": 58.5,
+          "timestamp": "2023-01-15T09:33:00"
+        },
+        {
+          "humidity": 62.5,
+          "temperature": 61,
+          "timestamp": "2023-04-27T02:31:00"
+        },
+        {
+          "humidity": 57.4,
+          "temperature": 57.8,
+          "timestamp": "2023-10-26T09:35:00"
+        },
+        {
+          "humidity": 56.6,
+          "temperature": 55,
+          "timestamp": "2023-08-20T02:26:00"
+        },
+        {
+          "humidity": 66.2,
+          "temperature": 66.4,
+          "timestamp": "2023-04-23T01:27:00"
+        },
+        {
+          "humidity": 56.3,
+          "temperature": 61.9,
+          "timestamp": "2023-06-22T06:10:00"
+        },
+        {
+          "humidity": 56.1,
+          "temperature": 56.5,
+          "timestamp": "2023-11-04T04:44:00"
+        },
+        {
+          "humidity": 57.8,
+          "temperature": 58,
+          "timestamp": "2023-02-11T10:36:00"
+        },
+        {
+          "humidity": 56.1,
+          "temperature": 59.5,
+          "timestamp": "2023-05-17T11:32:00"
+        },
+        {
+          "humidity": 59.4,
+          "temperature": 58.3,
+          "timestamp": "2023-01-06T11:35:00"
+        },
+        {
+          "humidity": 68.8,
+          "temperature": 64,
+          "timestamp": "2023-07-26T06:11:00"
+        },
+        {
+          "humidity": 65.8,
+          "temperature": 62.4,
+          "timestamp": "2023-01-02T08:23:00"
+        },
+        {
+          "humidity": 55.6,
+          "temperature": 59.4,
+          "timestamp": "2023-01-25T11:37:00"
+        },
+        {
+          "humidity": 57.7,
+          "temperature": 61.7,
+          "timestamp": "2023-11-14T11:43:00"
+        },
+        {
+          "humidity": 62,
+          "temperature": 66.2,
+          "timestamp": "2023-07-12T11:34:00"
+        },
+        {
+          "humidity": 69.6,
+          "temperature": 60.1,
+          "timestamp": "2023-07-16T10:40:00"
+        },
+        {
+          "humidity": 65.2,
+          "temperature": 57.2,
+          "timestamp": "2023-12-11T11:28:00"
+        },
+        {
+          "humidity": 60.3,
+          "temperature": 64.1,
+          "timestamp": "2023-01-04T07:00:00"
+        },
+        {
+          "humidity": 55.4,
+          "temperature": 59.2,
+          "timestamp": "2023-03-04T02:55:00"
+        },
+        {
+          "humidity": 57.1,
+          "temperature": 61.4,
+          "timestamp": "2023-03-05T12:16:00"
+        },
+        {
+          "humidity": 56.2,
+          "temperature": 59.6,
+          "timestamp": "2023-12-06T07:44:00"
+        },
+        {
+          "humidity": 61.3,
+          "temperature": 66.6,
+          "timestamp": "2023-04-06T02:04:00"
+        },
+        {
+          "humidity": 61.3,
+          "temperature": 68.5,
+          "timestamp": "2023-08-12T12:08:00"
+        },
+        {
+          "humidity": 56.1,
+          "temperature": 57.5,
+          "timestamp": "2023-04-06T12:28:00"
+        },
+        {
+          "humidity": 65,
+          "temperature": 57.2,
+          "timestamp": "2023-11-20T10:25:00"
+        },
+        {
+          "humidity": 58,
+          "temperature": 58.1,
+          "timestamp": "2023-12-23T11:47:00"
+        },
+        {
+          "humidity": 57.2,
+          "temperature": 59.6,
+          "timestamp": "2023-11-12T01:44:00"
+        },
+        {
+          "humidity": 60,
+          "temperature": 55.8,
+          "timestamp": "2023-12-05T11:44:00"
+        },
+        {
+          "humidity": 60.7,
+          "temperature": 59.7,
+          "timestamp": "2023-09-08T10:06:00"
+        },
+        {
+          "humidity": 65.2,
+          "temperature": 57.4,
+          "timestamp": "2023-05-19T05:27:00"
+        },
+        {
+          "humidity": 59.4,
+          "temperature": 63,
+          "timestamp": "2023-01-09T03:52:00"
+        },
+        {
+          "humidity": 65.5,
+          "temperature": 55.8,
+          "timestamp": "2024-01-24T10:20:00"
+        },
+        {
+          "humidity": 56.6,
+          "temperature": 63,
+          "timestamp": "2023-10-06T10:24:00"
+        },
+        {
+          "humidity": 58.1,
+          "temperature": 56.4,
+          "timestamp": "2023-11-03T04:26:00"
+        },
+        {
+          "humidity": 67.7,
+          "temperature": 69.2,
+          "timestamp": "2023-12-30T04:04:00"
+        },
+        {
+          "humidity": 55,
+          "temperature": 61.9,
+          "timestamp": "2023-10-07T04:49:00"
+        },
+        {
+          "humidity": 62.8,
+          "temperature": 56.1,
+          "timestamp": "2023-03-13T02:44:00"
+        },
+        {
+          "humidity": 63.6,
+          "temperature": 64.6,
+          "timestamp": "2023-09-25T07:29:00"
+        },
+        {
+          "humidity": 58.9,
+          "temperature": 68.1,
+          "timestamp": "2023-09-24T11:22:00"
+        },
+        {
+          "humidity": 63.7,
+          "temperature": 68.3,
+          "timestamp": "2023-12-11T02:10:00"
+        },
+        {
+          "humidity": 55.4,
+          "temperature": 66.7,
+          "timestamp": "2023-08-22T08:26:00"
+        },
+        {
+          "humidity": 58.8,
+          "temperature": 64.3,
+          "timestamp": "2023-03-09T09:59:00"
+        },
+        {
+          "humidity": 56.4,
+          "temperature": 67.4,
+          "timestamp": "2023-02-16T11:19:00"
+        },
+        {
+          "humidity": 61.4,
+          "temperature": 61.3,
+          "timestamp": "2023-12-21T01:08:00"
+        },
+        {
+          "humidity": 56.5,
+          "temperature": 62.8,
+          "timestamp": "2023-12-04T09:43:00"
+        },
+        {
+          "humidity": 63.2,
+          "temperature": 61.5,
+          "timestamp": "2023-01-03T01:03:00"
+        },
+        {
+          "humidity": 60.3,
+          "temperature": 59,
+          "timestamp": "2023-03-14T10:14:00"
+        },
+        {
+          "humidity": 62,
+          "temperature": 65.6,
+          "timestamp": "2023-01-05T07:41:00"
+        },
+        {
+          "humidity": 61.4,
+          "temperature": 59.3,
+          "timestamp": "2023-03-18T02:38:00"
+        },
+        {
+          "humidity": 68.9,
+          "temperature": 59.7,
+          "timestamp": "2023-06-19T07:27:00"
+        },
+        {
+          "humidity": 57.8,
+          "temperature": 60.2,
+          "timestamp": "2024-01-22T01:45:00"
+        },
+        {
+          "humidity": 59.7,
+          "temperature": 58.1,
+          "timestamp": "2023-08-12T01:03:00"
+        },
+        {
+          "humidity": 68.1,
+          "temperature": 64.2,
+          "timestamp": "2023-12-18T08:18:00"
+        },
+        {
+          "humidity": 65.4,
+          "temperature": 58.6,
+          "timestamp": "2023-09-02T12:35:00"
+        },
+        {
+          "humidity": 60.4,
+          "temperature": 60.6,
+          "timestamp": "2023-04-27T07:06:00"
+        },
+        {
+          "humidity": 64.4,
+          "temperature": 69.1,
+          "timestamp": "2023-10-13T02:37:00"
+        },
+        {
+          "humidity": 66.4,
+          "temperature": 58,
+          "timestamp": "2023-05-29T10:52:00"
+        },
+        {
+          "humidity": 62.6,
+          "temperature": 64,
+          "timestamp": "2023-04-10T09:59:00"
+        },
+        {
+          "humidity": 62.9,
+          "temperature": 57,
+          "timestamp": "2023-07-12T10:59:00"
+        },
+        {
+          "humidity": 64.6,
+          "temperature": 55.3,
+          "timestamp": "2023-06-25T09:14:00"
+        },
+        {
+          "humidity": 59,
+          "temperature": 67.5,
+          "timestamp": "2023-01-15T04:51:00"
+        },
+        {
+          "humidity": 61,
+          "temperature": 55.1,
+          "timestamp": "2023-08-27T04:58:00"
+        },
+        {
+          "humidity": 56.3,
+          "temperature": 63.1,
+          "timestamp": "2023-07-06T10:02:00"
+        },
+        {
+          "humidity": 55.6,
+          "temperature": 69.3,
+          "timestamp": "2023-04-27T08:06:00"
+        },
+        {
+          "humidity": 64.3,
+          "temperature": 65.9,
+          "timestamp": "2023-08-26T11:54:00"
+        },
+        {
+          "humidity": 61,
+          "temperature": 67.6,
+          "timestamp": "2023-04-14T12:00:00"
+        },
+        {
+          "humidity": 63.1,
+          "temperature": 60.3,
+          "timestamp": "2023-11-01T05:39:00"
+        },
+        {
+          "humidity": 55.2,
+          "temperature": 67.4,
+          "timestamp": "2023-09-21T12:22:00"
+        },
+        {
+          "humidity": 55.5,
+          "temperature": 60.3,
+          "timestamp": "2023-11-17T02:14:00"
+        },
+        {
+          "humidity": 64.6,
+          "temperature": 56.8,
+          "timestamp": "2023-01-10T01:33:00"
+        },
+        {
+          "humidity": 70,
+          "temperature": 58,
+          "timestamp": "2023-11-15T11:05:00"
+        },
+        {
+          "humidity": 55.3,
+          "temperature": 60.6,
+          "timestamp": "2023-08-18T12:04:00"
+        },
+        {
+          "humidity": 58.2,
+          "temperature": 66.5,
+          "timestamp": "2023-07-24T11:15:00"
+        },
+        {
+          "humidity": 59.9,
+          "temperature": 60.3,
+          "timestamp": "2023-11-11T07:24:00"
+        },
+        {
+          "humidity": 68.3,
+          "temperature": 63.8,
+          "timestamp": "2023-12-05T10:52:00"
+        },
+        {
+          "humidity": 67.1,
+          "temperature": 55.1,
+          "timestamp": "2023-11-20T12:09:00"
+        },
+        {
+          "humidity": 60,
+          "temperature": 67.9,
+          "timestamp": "2023-04-10T07:09:00"
+        },
+        {
+          "humidity": 57.5,
+          "temperature": 64.1,
+          "timestamp": "2023-02-27T11:49:00"
+        },
+        {
+          "humidity": 69.8,
+          "temperature": 68.7,
+          "timestamp": "2024-01-23T04:57:00"
+        },
+        {
+          "humidity": 62.1,
+          "temperature": 65.3,
+          "timestamp": "2023-09-21T09:14:00"
+        }
+      ]
